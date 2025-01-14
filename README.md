@@ -1,4 +1,4 @@
-# Hi there, I'm Onair-santa! 👋
+# Hi there, I'm Onair-santa!
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, data science, and open-source contributions.
 ## 📈 GitHub Stats
